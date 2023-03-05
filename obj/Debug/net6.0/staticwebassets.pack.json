@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\assets\\index.343193b5.js",
+      "PackagePath": "staticwebassets\\assets\\index.343193b5.js"
+    },
+    {
+      "Id": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\assets\\index.fd9674b0.css",
+      "PackagePath": "staticwebassets\\assets\\index.fd9674b0.css"
+    },
+    {
+      "Id": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TodoUniverse.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TodoUniverse.Web.props",
+      "PackagePath": "build\\TodoUniverse.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TodoUniverse.Web.props",
+      "PackagePath": "buildMultiTargeting\\TodoUniverse.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TodoUniverse.Web.props",
+      "PackagePath": "buildTransitive\\TodoUniverse.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

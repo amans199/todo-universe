@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfMo3cZBvnCJ9HqmGaU/+/duCTTPBeE0vv5obdGJVQZ/KMqrgA+f+nxO6IzYnwOOK8rKblZQTsNzXRylgCwSog==",
+  "dgSpecHash": "vQBn3vbGR7RZHNvlng/y+Hp0Kf4+oHYtDPdL8j68rSYFP2XVaLiFgpZlPSQOLE7maH7dU544dni9Cma2PkqSQg==",
   "success": true,
-  "projectFilePath": "C:\\study-projects\\2023\\todo-universe-app\\todo-universe\\TodoUniverse.Web.csproj",
+  "projectFilePath": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\TodoUniverse.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed Mansour\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ahmed Mansour\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

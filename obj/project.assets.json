@@ -10342,11 +10342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\study-projects\\2023\\todo-universe-app\\todo-universe\\TodoUniverse.Web.csproj",
+      "projectUniqueName": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\TodoUniverse.Web.csproj",
       "projectName": "TodoUniverse.Web",
-      "projectPath": "C:\\study-projects\\2023\\todo-universe-app\\todo-universe\\TodoUniverse.Web.csproj",
+      "projectPath": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\TodoUniverse.Web.csproj",
       "packagesPath": "C:\\Users\\Ahmed Mansour\\.nuget\\packages\\",
-      "outputPath": "C:\\study-projects\\2023\\todo-universe-app\\todo-universe\\obj\\",
+      "outputPath": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahmed Mansour\\AppData\\Roaming\\NuGet\\NuGet.Config",

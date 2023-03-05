@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9XdEBV7WiHGqkyglrOFuSeqP3i1Joenu9X+w+uon1vk=",
+  "Hash": "j/mE1LmrjU0+XNiXscMBZmY5ccaDdh31jZ7MT0Jmijo=",
   "Source": "TodoUniverse.Web",
   "BasePath": "_content/TodoUniverse.Web",
   "Mode": "Default",
@@ -10,10 +10,79 @@
     {
       "Name": "TodoUniverse.Web\\wwwroot",
       "Source": "TodoUniverse.Web",
-      "ContentRoot": "C:\\study-projects\\2023\\todo-universe-app\\todo-universe\\wwwroot\\",
+      "ContentRoot": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\",
       "BasePath": "_content/TodoUniverse.Web",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\assets\\index.343193b5.js",
+      "SourceId": "TodoUniverse.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\",
+      "BasePath": "_content/TodoUniverse.Web",
+      "RelativePath": "assets/index.343193b5.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index.343193b5.js"
+    },
+    {
+      "Identity": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\assets\\index.fd9674b0.css",
+      "SourceId": "TodoUniverse.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\",
+      "BasePath": "_content/TodoUniverse.Web",
+      "RelativePath": "assets/index.fd9674b0.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index.fd9674b0.css"
+    },
+    {
+      "Identity": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\index.html",
+      "SourceId": "TodoUniverse.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\",
+      "BasePath": "_content/TodoUniverse.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\vite.svg",
+      "SourceId": "TodoUniverse.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\study-projects\\2023\\todo-universe-backend-and-frontend\\wwwroot\\",
+      "BasePath": "_content/TodoUniverse.Web",
+      "RelativePath": "vite.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ]
 }
